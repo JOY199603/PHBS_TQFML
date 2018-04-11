@@ -10,8 +10,8 @@
 * I've collected all the A-shares and choosen __1837__ stocks whose IPO dates were after 2010
 * There are __14__ variables of these stocks:
   * __industry_gics__: the belonging industry of the stock by the wind industry classification,which is similar to the GICS
-  * __mkt__: the board of the stock,like main board,ChiNext,etc
-  * __backdoor__: whether the stock is IPO by back-door listing
+  * __mkt__: the board of the stock,like main board,ChiNext,etc
+  * __backdoor__: whether the stock is IPO by back-door listing
   * __ipo_date__: the ipo date
   * __ipo_price__: the ipo price
   * __ipo_amount__: the ipo amount
